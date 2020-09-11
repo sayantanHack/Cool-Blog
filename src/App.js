@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Appbar from "./components/Appbar";
+import BlogBox from "./components/BlogBox";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <h1>
         Welcome Cool Blog site !!
       </h1>
+      <BlogBox />
     </div>
   );
 }
