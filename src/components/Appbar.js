@@ -5,6 +5,7 @@ const useStyle = makeStyles((theme) => ({
     appbar: {
         backgroundColor: "#fff"
     }
+    
 }));
 
 function Appbar(){
